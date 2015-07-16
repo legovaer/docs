@@ -1,28 +1,10 @@
-Configuring Behat
-=================
+Configuration
+=============
 
-Global Filters
---------------
+.. toctree::
+   :maxdepth: 2
 
-While it is possible to specify filters as part of suite configuration, sometimes you will want to 
-exclude certain scenarios across the suite, with the option to override the filters at the command line.
-
-This is achieved by specifying the filter in the gherkin configuration:
-
-.. code-block:: yaml
-
-    # behat.yml
-
-    default:
-        gherkin:
-          filters:
-            tags: ~@wip
-            
-In this instance, scenarios tagged as @wip will be ignored unless the CLI command is run with a custom filter, e.g.:
-
-.. code-block:: bash
-
-    vendor/bin/behat --tags=wip
+   configuration/feature_suite_and_scenario_configuration
 
 Custom Autoloading
 ------------------
@@ -58,7 +40,7 @@ If you wish to namespace your features (for example: to be PSR-1 complaint) you 
     Using ``behat.yml`` to autoload will only allow for ``PSR-0``
     You can also use ``composer.json`` to autoload, which will also
     allow for ``PSR-4``
-    
+
 Formatters
 ----------
 
@@ -71,19 +53,3 @@ Default formatters can be enabled by specifying them in the profile.
     default:
         formatters:
             pretty: true
-
-Extensions
-----------
-
-Extensions can be configured like this:
-
-.. code-block:: yaml
-
-    # behat.yml
-    
-    default:
-    	extensions:
-            Behat\MinkExtension:
-                base_url: http://www.example.com
-            	selenium2: ~
-
