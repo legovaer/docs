@@ -1,11 +1,17 @@
 Development
 ===========
 
-Implementing the Feature
-------------------------
+Executing Behat
+---------------
+
+Defining Steps
+--------------
 
 Automating Steps
 ----------------
 
-Defining Steps
---------------
+Implementing the Feature
+------------------------
+
+What's next?
+------------

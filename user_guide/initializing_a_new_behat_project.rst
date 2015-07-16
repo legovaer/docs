@@ -1,2 +1,5 @@
-Initializing a new Behat project
+Initializing a new Behat Project
 ================================
+
+Suite Initialisation
+--------------------

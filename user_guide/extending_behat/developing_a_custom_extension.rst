@@ -1,2 +1,2 @@
-Developing a custom extension
+Developing a Custom Extension
 =============================

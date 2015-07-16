@@ -1,5 +1,14 @@
-Hooking into the test process
+Hooking into the Test Process
 =============================
+
+Behat Hook System
+-----------------
+
+Hooks
+-----
+
+Suite Hooks
+-----------
 
 Tagged hooks
 ------------
@@ -12,3 +21,6 @@ Feature hooks
 
 Step hooks
 ----------
+
+Using Scopes
+------------

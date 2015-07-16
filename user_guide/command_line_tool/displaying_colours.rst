@@ -1,2 +1,2 @@
-Displaying colours
+Displaying Colours
 ==================

@@ -1,2 +1,2 @@
-Using the Symfony2 profiler with Behat and Symfony2 extension
+Using the Symfony2 Profiler with Behat and Symfony2 Extension
 =============================================================

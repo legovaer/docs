@@ -1,2 +1,2 @@
-Gathering contexts when using multiple contexts
+Gathering Contexts when using Multiple Contexts
 ===============================================

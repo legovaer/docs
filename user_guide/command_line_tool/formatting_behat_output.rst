@@ -1,11 +1,11 @@
-Formatting Behat output
+Formatting Behat Output
 =======================
 
-Define formatter
+Define Formatter
 ----------------
 
-Specify output
+Specify Output
 --------------
 
-Format settings
+Format Settings
 ---------------

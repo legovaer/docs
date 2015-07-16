@@ -1,2 +1,2 @@
-Specifying configuration file
+Specifying Configuration File
 =============================

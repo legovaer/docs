@@ -1,17 +1,17 @@
-Feature, Suite and Scenario configuration
+Feature, Suite and Scenario Configuration
 =========================================
 
-Paths
------
+Suite Paths
+-----------
 
-Filters
--------
+Suite Filters
+-------------
 
 Suites
 ------
 
-Contexts
---------
-
 Extensions
 ----------
+
+Suite Contexts
+--------------

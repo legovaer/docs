@@ -5,6 +5,6 @@ Quick Start
    :hidden:
    :maxdepth: 2
 
+   quick_start/example
    quick_start/installation
    quick_start/development
-   quick_start/executing_behat

@@ -1,2 +1,2 @@
-Developing web applications with Behat and Mink
+Developing Web Applications with Behat and Mink
 ===============================================

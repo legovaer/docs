@@ -1,2 +1,2 @@
-Using spin functions for slow tests
+Using Spin Functions for Slow Tests
 ===================================

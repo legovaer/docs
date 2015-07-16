@@ -1,2 +1,2 @@
-Configuring Behat for testing Selenium
+Configuring Behat for Testing Selenium
 ======================================

@@ -1,13 +1,13 @@
-Development support
+Development Support
 ===================
 
-Append snippets
+Append Snippets
 ---------------
 
-Dry running
+Dry Running
 -----------
 
-Stop op failure
+Stop on Failure
 ---------------
 
 Re-run

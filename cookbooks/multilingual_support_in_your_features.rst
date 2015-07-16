@@ -1,2 +1,2 @@
-Multilingual support in your features
+Multilingual Support in your Features
 =====================================

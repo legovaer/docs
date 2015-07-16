@@ -4,28 +4,28 @@ Writing Scenarios
 Steps
 -----
 
-Given
-^^^^^
+Givens
+~~~~~~
 
-When
-^^^^
+Whens
+~~~~~
 
-Then
-^^^^
+Thens
+~~~~~
 
 And & But
-^^^^^^^^^
+~~~~~~~~~
 
-Background
-----------
+Backgrounds
+-----------
 
-Outline
--------
+Scenario Outlines
+-----------------
 
 Tables
 ------
 
-Multiline arguments
+Multiline Arguments
 -------------------
 
 Pystrings

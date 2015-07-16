@@ -1,2 +1,2 @@
-Developing a custom formatter
+Developing a Custom Formatter
 =============================

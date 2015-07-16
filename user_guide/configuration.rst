@@ -12,7 +12,7 @@ Profiles
 Importing
 ---------
 
-Custom autoloading
+Custom Autoloading
 ------------------
 
 Formatters

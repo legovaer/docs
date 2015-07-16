@@ -1,8 +1,6 @@
 Behat Documentation
 ===================
 
-Small Behat introduction.
-
 .. toctree::
    :hidden:
    :maxdepth: 2

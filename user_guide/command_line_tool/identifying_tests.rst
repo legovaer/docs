@@ -1,24 +1,23 @@
-Identifying tests
+Identifying Tests
 =================
 
-By profile
+By Profile
 ----------
 
-By suite
+By Suite
 --------
 
-By tags
+By Tags
 -------
 
-By path
+By Path
 -------
 
-By name
+By Name
 -------
 
-By role
+By Role
 -------
 
-By language
+By Language
 -----------
-

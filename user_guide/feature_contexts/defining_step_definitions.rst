@@ -1,18 +1,44 @@
-Defining step definitions
+Defining Step Definitions
 =========================
 
-Step argument transformation
-----------------------------
+Creating Your First Step Definition
+-----------------------------------
 
-Table transformation
-^^^^^^^^^^^^^^^^^^^^
-
-
-Definition snippets
+Definition Snippets
 -------------------
+
+Step Execution Result Types
+---------------------------
+
+Successful Steps
+~~~~~~~~~~~~~~~~
+
+Undefined Steps
+~~~~~~~~~~~~~~~
+
+Pending Steps
+~~~~~~~~~~~~~
+
+Failed Steps
+~~~~~~~~~~~~
+
+Skipped Steps
+~~~~~~~~~~~~~
+
+Ambiguous Steps
+~~~~~~~~~~~~~~~
+
+Redundant Step Definitions
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Step Argument Transformations
+-----------------------------
+
+Table Transformation
+~~~~~~~~~~~~~~~~~~~~
 
 Arguments
 ---------
 
-Definition keywords
+Definition Keywords
 -------------------

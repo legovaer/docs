@@ -1,7 +1,7 @@
-Informative output
+Informative Output
 ==================
 
-Print definitions
+Print Definitions
 -----------------
 
 Verbose
@@ -13,8 +13,8 @@ Help
 Version
 -------
 
-Config reference
+Config Reference
 ----------------
 
-Output story syntax
+Output Story Syntax
 -------------------

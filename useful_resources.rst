@@ -1,8 +1,8 @@
-Useful resources
+Useful Resources
 ================
 
-Integrate Behat with PHPStorm
------------------------------
+Integrating Behat with PHPStorm
+-------------------------------
 
 Behat vs Cucumber
 -----------------
@@ -13,5 +13,5 @@ Gherkin API
 Behat API
 ---------
 
-Behat cheat sheet
+Behat Cheat Sheet
 -----------------

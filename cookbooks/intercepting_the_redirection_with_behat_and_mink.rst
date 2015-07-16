@@ -1,2 +1,2 @@
-Intercepting the redirection with Behat and Mink
+Intercepting the Redirection with Behat and Mink
 ================================================
