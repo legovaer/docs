@@ -125,11 +125,13 @@ class:
     /**
      * @BeforeSuite
      */
-    public static function prepare($scope)
+    public function prepare($scope)
     {
         // prepare system for test suite
         // before it runs
     }
+
+Only methods for ``*Suite`` hooks have to be declared as ``static``.
 
 We use annotations as we did before with :doc:`definitions </user_guide/context/definitions>`.
 Simply use the annotation of the name of the hook you want to use (e.g.
